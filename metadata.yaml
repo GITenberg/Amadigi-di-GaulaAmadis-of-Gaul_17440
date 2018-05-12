@@ -1,0 +1,85 @@
+_repo: Amadigi-di-GaulaAmadis-of-Gaul_17440
+_version: 0.1.0
+alternative_title: Amadigi di Gaula
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haym, Nicola Francesco
+    birthdate: 1678
+    deathdate: 1729
+    gutenberg_agent_id: '7380'
+    url: http://www.gutenberg.org/2009/agents/7380
+    wikipedia: http://it.wikipedia.org/wiki/Nicola_Francesco_Haym
+description: "Amadís de Gaula (original Old Spanish and Galician-Portuguese spelling;\
+  \ Spanish: Amadís de Gaula, IPA: [amaˈðiz ðe ˈɣaula]; Portuguese: Amadis de Gaula,\
+  \ IPA: [ɐmɐˈdiʒ dɨ ˈɡawlɐ]) is a landmark work among the chivalric romances which\
+  \ were in vogue in sixteenth-century Spain, although its first version, much revised\
+  \ before printing, was written at the onset of the 14th century.\nThe earliest surviving\
+  \ edition of the known text, by Garci Rodríguez de Montalvo (not Ordóñez de Montalvo),\
+  \ was published in Zaragoza in 1508, although almost certainly there were earlier\
+  \ printed editions, now lost. It was published in four books in Castilian, but its\
+  \ origins are unclear: The narrative originates in the late post-Arthurian genre\
+  \ and had certainly been read as early as the 14th century by the chancellor Pero\
+  \ López de Ayala as well as his contemporary Pero Ferrús.\nMontalvo himself confesses\
+  \ to have amended the first three volumes, and to be the author of the fourth. Additionally,\
+  \ in the Portuguese Chronicle by Gomes Eannes de Azurara (1454), Amadis is attributed\
+  \ to Vasco de Lobeira, who was knighted after the Battle of Aljubarrota (1385).\
+  \ However, although other sources claim that the work was, in fact, a copy of one\
+  \ João de Lobeira, not troubadour Vasco de Lobeira, and that it was a translation\
+  \ into Castilian Spanish of an earlier work, probably from the beginning of the\
+  \ 14th century, no primitive version in the original Portuguese is known. The inspiration\
+  \ for the \"Amadis de Gaula\" appears to be the blocked marriage of Infanta Constanza\
+  \ of Aragon with Henry of Castile in 1260 (see Juan Manuel's Libro de las tres razones\
+  \ of 1335), as blocked was also Oriana's marriage to Amadis. A more recent opinion\
+  \ attributes \"Amadis\" to Henry of Castile and León, due to evidence linking his\
+  \ biography with the events in \"Amadis\". Henry of Castile died in 1305.\nIn his\
+  \ introduction to the text, Garci Rodríguez de Montalvo explains that he has edited\
+  \ the first three books of a text in circulation since the 14th century. Montalvo\
+  \ also admits to adding a fourth as yet unpublished book as well as adding a continuation\
+  \ (Las sergas de Esplandián), which he claims was found in a buried chest in Constantinople\
+  \ and transported to Spain by a Hungarian merchant (the famous motif of the found\
+  \ manuscript).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Opera
+- IT Teatro in versi
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17440'
+  wikidata: Q452075
+language:
+- en
+- it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- !lcc 'ML'
+title: "Amadis of Gaul, an opera\r\nAs it is perform'd at the King’s Theatre in the\
+  \ Hay-market"
+url: http://www.gutenberg.org/ebooks/17440
+wikipedia:
+- https://fi.wikipedia.org/wiki/Amadis_de_Gaula
+- https://fr.wikipedia.org/wiki/Amadis_de_Gaule
+- https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D8%A7%D8%AF%D9%8A%D8%B3_%D8%AF%D9%8A_%D8%AC%D8%A7%D9%88%D9%84%D8%A7
+- https://nl.wikipedia.org/wiki/Amadisroman
+- https://pt.wikipedia.org/wiki/Amadis_de_Gaula
+- https://pl.wikipedia.org/wiki/Amadis_z_Walii
+- https://cs.wikipedia.org/wiki/Amad%C3%ADs_Walesk%C3%BD
+- https://sv.wikipedia.org/wiki/Amadisromaner
+- https://de.wikipedia.org/wiki/Amadis_de_Gaula
+- https://es.wikipedia.org/wiki/Amad%C3%ADs_de_Gaula
+- https://hu.wikipedia.org/wiki/Amadis_de_Gaula
+- https://eu.wikipedia.org/wiki/Amadis_de_Gaula
+- https://en.wikipedia.org/wiki/Amad%C3%ADs_de_Gaula
+- https://commons.wikimedia.org/wiki/Category:Amad%C3%ADs_de_Gaula
+- https://no.wikipedia.org/wiki/Amadis_de_Gaula
+- https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8D%A2%E7%9A%84%E9%98%BF%E7%8E%9B%E8%BF%AA%E6%96%AF
+- https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D0%B4%D0%B8%D1%81_%D0%93%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9
+- https://ca.wikipedia.org/wiki/Amad%C3%ADs_de_Gaula
+- https://gl.wikipedia.org/wiki/Amad%C3%ADs_de_Gaula
+- https://oc.wikipedia.org/wiki/Amad%C3%ADs_de_Gaula
+- https://it.wikipedia.org/wiki/Amadigi_di_Gaula
