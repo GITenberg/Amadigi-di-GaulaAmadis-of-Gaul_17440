@@ -41,6 +41,8 @@ description: "Amadís de Gaula (original Old Spanish and Galician-Portuguese spe
   \ (Las sergas de Esplandián), which he claims was found in a buried chest in Constantinople\
   \ and transported to Spain by a Hungarian merchant (the famous motif of the found\
   \ manuscript).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17440#Amadigi-di-GaulaAmadis-of-Gaul
 gutenberg_bookshelf:
 - Opera
 - IT Teatro in versi
